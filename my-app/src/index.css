@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.contact-item {
+  font-size: 1.2rem;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #000;
+  background-color: #fff;
+}
+
+.cotact-item-message{
+ font-size: 0.8rem;
+}
+
+.contact span {
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #333;
+}
+
+.contact-item:hover{
+  color: #589;
+  background: #fafafa;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.contact-list{
+  width: 50%;
+}
